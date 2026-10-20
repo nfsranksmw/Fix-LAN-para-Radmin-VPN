@@ -26,7 +26,7 @@ El código de red original de NFSMW (2005) fue diseñado para redes locales (LAN
 
 Puedes descargar la versión más reciente lista para usar desde la sección de entregas:
 
-👉 **[Descargar Última Versión (Releases)](https://github.com/TU_USUARIO/TU_REPOSITORIO/releases/latest)**
+👉 **[Descargar Última Versión (Releases)]([https://github.com/TU_USUARIO/TU_REPOSITORIO/releases/latest](https://github.com/nfsranksmw/Fix-LAN-para-Radmin-VPN.git))**
 
 ---
 
